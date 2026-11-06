@@ -1,6 +1,6 @@
 <div align="center">
   
-![Tobi](https://glyphbadges.dev/cover?title=Tobi%20Desk&description=Dein%20Tobi%20für%20den%20Schreibtisch!)
+![Tobi](https://glyphbadges.dev/cover?title=Tobi%20Deck&description=Dein%20Tobi%20für%20den%20Schreibtisch!)
 </div>
 
 # Über Tobi-Deck
