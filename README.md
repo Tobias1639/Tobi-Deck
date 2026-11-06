@@ -1,3 +1,8 @@
+<div align="center">
+  
+![Tobi](https://glyphbadges.dev/cover?title=Tobi%20Desk&description=Dein%20Tobi%20für%20den%20Schreibtisch!)
+</div>
+
 # Über Tobi-Deck
 
 <p>Tobi-Deck ist eine Extratastur für deinen Schreibtisch mit 6 Tasten, 3 Drehreglern und einem LCD-Display zur Medien Steuerung.</p>
