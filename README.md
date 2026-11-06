@@ -3,6 +3,10 @@
 <p>Tobi-Deck ist eine Extratastur für deinen Schreibtisch mit 6 Tasten, 3 Drehreglern und einem LCD-Display zur Medien Steuerung.</p>
 
 # Material-Liste
+
+> [!WARNING]
+>Für Tobi-Deck benötigst du einen 3D-Drucker mit PLA-Filament.
+
 | Material | Menge / Details |
 | :--- | :--- |
 | Holzbrett | Nach eigener Wahl |
