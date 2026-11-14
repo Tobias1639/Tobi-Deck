@@ -19,7 +19,7 @@
 | <a href="https://amzn.eu/d/08V3JUHS" target="_blank">ESP-32 S3-Mini</a> | 1 Stück |
 | <a href="https://amzn.eu/d/03uC67KL" target="_blank">Tasten</a> | 6 Stück (1,5 cm x 1,5 cm) |
 | <a href="https://amzn.eu/d/0iMxreGW" target="_blank">Tasten-Kappen</a> | 6 Stück |
-| <a href="https://amzn.eu/d/098z6IT" target="_blank">4-Digit-Display</a> | 1 Stück|
+| <a href="https://amzn.eu/d/0cpxo4oy" target="_blank">4-Digit-Display</a> | 1 Stück|
 <hr>
 <div align="center">
 <img src="https://glyphbadges.dev/badge/Lizenz-MIT-5E4040.svg?label=Lizenz&text=MIT&bg=5E4040&labelBg=445C42&logo=status&style=flat" alt="Lizenz MIT">
